@@ -14,12 +14,16 @@
 4. [Null Safety](https://www.raywenderlich.com/21955673-non-nullable-dart-understanding-null-safety)
 
 # Playing with flutter
+1. Getting started with flutter
+   * [Create an app](https://www.raywenderlich.com/24499516-getting-started-with-flutter)
+   
 1. Introduction to widgets
      * [Widgets in flutter](https://docs.flutter.dev/development/ui/widgets-intro)
      * [Widgets catalog](https://docs.flutter.dev/development/ui/widgets/basics),[Widgets index](https://docs.flutter.dev/reference/widgets)
      * [Flutter Widgets - A brief guide](https://www.solutelabs.com/blog/flutter-widgets-a-brief-guide)
      * [Statefull and Stateless](https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/)
      * [A meaningful list of widgets](https://medium.com/@mirko.rapisarda/flutter-a-meaningful-list-of-widgets-that-you-probably-dont-know-fd25890803)
+     
 2. Layouts
      * [Layouts in Flutter](https://docs.flutter.dev/development/ui/layout)
      * [Basic layouts concepts](https://docs.flutter.dev/codelabs/layout-basics)
