@@ -33,4 +33,5 @@
 5. [Flutter Community in Medium](https://medium.com/flutter-community)
 6. [Reso Coder](https://resocoder.com/blog/)
 7. [Raywenderlich](https://www.raywenderlich.com/13739693-your-first-flutter-app)
-8. https://betterprogramming.pub/discover-flutter-flutter-version-manager-fvm-411dc2bff4b4
+8. [Awesome Flutter](https://github.com/Solido/awesome-flutter)
+9. https://betterprogramming.pub/discover-flutter-flutter-version-manager-fvm-411dc2bff4b4
